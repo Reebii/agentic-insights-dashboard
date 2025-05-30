@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agentic-insights-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/agentic-insights-dashboard/static/js/main.4bce543d.js",
+    "index.html": "/agentic-insights-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/agentic-insights-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.4bce543d.js.map": "/agentic-insights-dashboard/static/js/main.4bce543d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4bce543d.js"
+  ]
+}
